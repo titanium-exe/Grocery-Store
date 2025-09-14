@@ -1,4 +1,4 @@
-# Online Grocery Store : 2nd semester Project 
+# Online Grocery Store (summer 2022)
 ## Team Member: Ekamleen Maan
 
 ## Project Overview
@@ -17,7 +17,6 @@ This **Online Grocery Store** project allows users to browse products, add items
 
 - **Java**: Core programming language for the project.
 - **JavaFX**: Used for building the graphical user interface.
-- **JUnit**: Used for unit testing the application.
 - **Object Oriented Programming**
 
 ## File Structure
