@@ -1,5 +1,5 @@
 # Online Grocery Store (summer 2022)
-## Team Member: Ekamleen Maan
+## Team: Ekamleen Maan
 
 ## Project Overview
 
