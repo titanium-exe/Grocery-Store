@@ -41,6 +41,7 @@ This **Online Grocery Store** project allows users to browse products, add items
    ```bash
    java Main
    ```
+<img width="491" height="521" alt="Screenshot 2025-09-14 at 6 00 50 PM" src="https://github.com/user-attachments/assets/d6d96a06-e828-411d-afff-506c628335ca" />
 
 ## Future Enhancements
 
